@@ -1,4 +1,8 @@
 # React Notes
+
+> react bootstrap usage 
+https://blog.logrocket.com/using-bootstrap-with-react-tutorial-with-examples/
+
 ## ReactRouter Usage
 ``` javascript
 import  './App.css';
@@ -18,3 +22,4 @@ function App() {
 
 }
 ```
+
